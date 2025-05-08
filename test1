@@ -10,4 +10,4 @@ with open("output.txt", "W") as file:
     else:
         dead_file.write(character + "-" + status)
         
-print("staatused on salvestatud file output.txt")
+print("Staatuseshave been saved in alive.txt and dead.txt")
